@@ -1,6 +1,6 @@
 package cn.itcast.xc.pojo;
 /*
- * ÆÕÍ¨Àà
+ * æ™®é€šç±»
  */
 public class Category {
 	private int id;
